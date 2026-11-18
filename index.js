@@ -5,7 +5,7 @@
 
 "use strict";
 
-// Where data will be retrieved from for app
+
 const cakeRecipes = require("./cake-recipes.json");
 
 // Allows user input in terminal - won't work in VScode if not added
